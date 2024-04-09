@@ -2,7 +2,9 @@
 Report generated on business intelligence platform platform - PowerBI .
 
 Loaded the dataset from internet. The dataset contains the survey analysis of around 600 people either working professional or student who have provided info/ratings regarding different aspects as asked in the survey. The survey cosisted of a total of 12 questions to understand the current market situation.
- 
+
+
+ [https://github.com/abhinav-k18/SurveyAnalysis-PowerBI/blob/main/Dashboard.png]
 Step 1 - Data Cleaning - 
   The data had to be cleaned before it could be used for analysis. All the personal information of the people have been hidden in order to maintain their privacy and made the data more public view friendly.  
   Q1- Cleaned the Current role section as the data was dirty and a lot of options (in other roles)
