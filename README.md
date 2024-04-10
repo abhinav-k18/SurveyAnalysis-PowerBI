@@ -4,7 +4,7 @@ Report generated on business intelligence platform platform - PowerBI .
 Loaded the dataset from internet. The dataset contains the survey analysis of around 600 people either working professional or student who have provided info/ratings regarding different aspects as asked in the survey. The survey cosisted of a total of 12 questions to understand the current market situation.
 
 
- [https://github.com/abhinav-k18/SurveyAnalysis-PowerBI/blob/main/Dashboard.png]
+ (https://github.com/abhinav-k18/SurveyAnalysis-PowerBI/blob/main/Dashboard.png)
 
  
 Step 1 - Data Cleaning - 
